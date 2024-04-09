@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(100, 182, 212);
+    text-align: center;
+    padding: 50px;
+    background-image: url(sunset.jpg);
+}
+h1 {
+    background-color: rgb(178, 86, 178);
+border: 10px double rgb(228, 156, 228);
+    border-radius: 50px;
+    font-size: 65px;
+}
+p {
+    background-color: rgb(255, 255, 139);
+    border: 20px double orange;
+    border-radius: 50px;
+    font-size: 40px
+}
+img {
+    border: 5px DOUBLE white;
+}
+iframe {
+    border: 5px double white;
+}
+
